@@ -31,15 +31,15 @@ root/
 - `.gitignore`: Specifies files or directories to be ignored by version control.
 - `LICENSE`: Contains project licensing information.
 - `README.md`: The project's README file.
-- `CODE_OF_CONDUCT.md`: Specifies code of Conduct of Project.
+- `CODE_OF_CONDUCT.md`: specifies the Code of Conduct of the Project.
 
 By default, configuration files are stored in the project root. Alternatively, you can use a `config/` folder to store configuration files and scripts. 
 
-If possible, use package managers, such as [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/). In this cases, external libraries and dependencies must not be included in the repository.
+If possible, use package managers, such as [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/). In these cases, external libraries and dependencies must not be included in the repository.
 
 ## Branches
 
-Branches are essential for managing different aspects of your project's development. When possible, branches must be related with issues. Example branches names:
+Branches are essential for managing different aspects of your project's development. Branches must be related to a feature/issue. Example branch names:
 
 - **Main Branch**: Represents the stable version of your project.
 - **Dev Branches**: Used for developing new features or enhancements.
@@ -48,7 +48,7 @@ Branches are essential for managing different aspects of your project's developm
 
 ## Pull Requests
 
-Pull requests (PRs) are how you propose changes to your repository. When a issue is developed you must open a [PR](https://github.com/sergiomrebelo/ldc-repository-example/pulls) to merge your branch into the main branch.
+Pull requests (PRs) are how you propose changes to your repository. When an issue is developed you must open a [PR](https://github.com/sergiomrebelo/ldc-repository-example/pulls) to merge your branch into the main branch.
 If possible, request reviews from team members to ensure code quality and after receiving approval, merge the PR into the main branch.
 
 
