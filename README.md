@@ -10,7 +10,6 @@ If your README is very long, consider incorporating a table of contents to facil
 - [Project Name](#project-name)
     - [Table of Contents](#table-of-contents)
     - [About](#about)
-    - [Features](#features)
     - [Getting Started](#getting-started)
         - [Prerequisites](#prerequisites)
         - [Installation](#installation)
@@ -18,17 +17,9 @@ If your README is very long, consider incorporating a table of contents to facil
     - [Contributing](#contributing)
     - [License](#license)
 
-## About
+## About (Optional)
 
 Provide a more detailed introduction to your project. Explain what it does, why it's important, and any relevant background information.
-
-## Features
-
-List the key features and functionalities of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Getting Started
 
