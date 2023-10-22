@@ -33,8 +33,9 @@ If necessary, you can briefly mention the current [milestone](https://github.com
 
 🤔 **Optional** (High recommended if project is in development)
 
-- [Milestone 1](https://github.com/sergiomrebelo/ldc-repository-example/milestone/1): [Description of the milestone]
-- [Milestone 2](https://github.com/sergiomrebelo/ldc-repository-example/milestone/2): [Description of the milestone]
+- [Repository Definition](https://github.com/sergiomrebelo/ldc-repository-example/milestone/1): In the task on this milestone, we establish the repository structure and set the foundation for organised collaboration.
+- [Define the Project](https://github.com/sergiomrebelo/ldc-repository-example/milestone/2): To define and outline the project's objectives, scope, and overall plan.
+- [Milestone 3](): Description of the milestone
 
 
 ## Getting Started
