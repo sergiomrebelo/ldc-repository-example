@@ -2,10 +2,11 @@
 
 A brief description of your project goes here.
 
-## Table of Contents (Optional)
+A README file should contain only the information necessary for developers to start using and contributing to your project. Longer documentation is better suited to [wikis](https://github.com/sergiomrebelo/ldc-repository-example/wiki).
 
+## Table of Contents
 
-If your README is very long, consider incorporating a table of contents to facilitate navigation for users. 
+If your README is very long, consider incorporating a table of contents to facilitate navigation for users.  (Optional)
 
 - [Project Name](#project-name)
     - [Table of Contents](#table-of-contents)
@@ -17,9 +18,9 @@ If your README is very long, consider incorporating a table of contents to facil
     - [Contributing](#contributing)
     - [License](#license)
 
-## About/Motivation (Optional)
+## About
 
-Provide a more detailed introduction to your project. Explain what it does, why it's important, and any relevant background information.
+Provide a more detailed overview to your project. Explain what it does, the motivation, and any relevant background information. (Optional)
 
 ## Getting Started
 
@@ -52,6 +53,10 @@ If necessary, made available code instruction of how to run the project.
 ```bash
 $ your-command --options
 ```
+
+## Code of Conduct
+A code of conduct is a document that establishes expectations for behavior for your project’s constributiors. 
+We expect everyone participating in our project to follow a Code of Conduct. The Code of Conduct text is ussually 
 
 ## Contributing
 Let others know how they can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards you want contributors to follow.
