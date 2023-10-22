@@ -55,7 +55,7 @@ Let others know how they can contribute to your project. Include guidelines for 
 ## License
 A short description of the license. ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
 
-**Typically:** This project is licensed under the `[License Name]` - see the [LICENSE](blob/main/LICENSE) file for details.
+**Typically:** This project is licensed under the `[License Name]` - see the [LICENSE](LICENSE) file for details.
 
 css
 Copy code
