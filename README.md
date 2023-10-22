@@ -32,6 +32,7 @@ Provide a more detailed overview to your project. Explain what it does, the moti
 
 If necessary, you can briefly mention the current [milestone](https://github.com/sergiomrebelo/ldc-repository-example/milestones) and its significance.
 
+![example placedholder image](res/placeholder.png)
 
 ### RoadMap
 
