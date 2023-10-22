@@ -1,0 +1,55 @@
+# Repository Organization Guide
+
+This page provides recommendations and best practices for organising a repository.
+
+## Folder Structure
+
+A well-structured repository is essential for collaboration and code sharing. Consider the following folder structure:
+```
+root/
+│
+├── src/
+├── test/
+├── docs/
+├── dep/
+├── data/
+├── res/
+├── .build/
+├── .gitignore
+├── LICENSE
+├── README.md
+│── CODE_OF_CONDUCT.md
+└── ...
+```
+
+- `src/`: Contains source code.
+- `test/`: Store integration, unit, and other tests.
+- `docs/`: Documentation files, including user guides and developer guides. Also see [Wikis](https://github.com/sergiomrebelo/ldc-repository-example/wiki).
+- `dep/` or `libs/`: External libraries or dependencies.
+- `data/`: Data files and databases.
+- `res/`: Results of the project, include static resources, such as images, and papers.
+- `.gitignore`: Specifies files or directories to be ignored by version control.
+- `LICENSE`: Contains project licensing information.
+- `README.md`: The project's README file.
+- `CODE_OF_CONDUCT.md`: Specifies code of Conduct of Project.
+
+By default, configuration files are stored in the project root. Alternatively, you can use a `config/` folder to store configuration files and scripts. 
+
+If possible, use package managers, such as [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/). In this cases, external libraries and dependencies must not be included in the repository.
+
+## Branches
+
+Branches are essential for managing different aspects of your project's development. When possible, branches must be related with issues. Example branches names:
+
+- **Main Branch**: Represents the stable version of your project.
+- **Dev Branches**: Used for developing new features or enhancements.
+- **define-directory-structure Branch**: Created to develop the feature/issue [#1](https://github.com/sergiomrebelo/ldc-repository-example/issues/1).
+- **issue-n Branch**: Created to develop the issue n.
+
+## Pull Requests
+
+Pull requests (PRs) are how you propose changes to your repository. When a issue is developed you must open a [PR](https://github.com/sergiomrebelo/ldc-repository-example/pulls) to merge your branch into the main branch.
+If possible, request reviews from team members to ensure code quality and after receiving approval, merge the PR into the main branch.
+
+
+

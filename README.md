@@ -79,7 +79,7 @@ $ your-command --options
 ## Code of Conduct
 A code of conduct is a document that establishes expectations for behavior for your project’s constributiors. The text is usually stored in the `CODE_OF_CONDUCT` file in the root of the project. For more information read this [page](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project).
 
-**Typically:** We expect everyone participating in our project to follow a Code of Conduct. Please read it [here](CODE_OF_CONDUCT.md).
+> We expect everyone participating in our project to follow a Code of Conduct. Please read it [here](CODE_OF_CONDUCT.md).
 
 
 ## Contributing
@@ -89,10 +89,12 @@ Let others know how they can contribute to your project. Include guidelines for 
 A short description of the license. If you want to share your work with others, please consider choosing an open source license ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
 The text of a license is usually stored in the `LICENSE` file in the root of the project.
 
-**Typically:** This project is licensed under the `[License Name]` - see the [LICENSE](LICENSE) file for details.
+> This project is licensed under the `[License Name]` - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
 Let other know whose help and support the project. It can include libraries, previous works, support of other individuals, etc.
+
+Do not forget to mention that this project is developed in a context of a university course in the MSc of Design and Multimedia of University of Coimbra.
 
 ### Contributors
 
