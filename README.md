@@ -42,18 +42,23 @@ Provide step-by-step instructions on how to install and set up your project.
 
 Explain how to use your project. Provide instruction, code examples, screenshots, or any other relevant information that can help users/contributors use the project.
 
-Also if your project will require authentication like API keys, passwords, or usernames, this is a good section to explain that.
+Also if your project will require authentication like API keys, passwords, or usernames, this is the place to explain that.
 
+> ⚠️ 
+> 
+> Do not include personal acess tokens or passwords in the project. This information must be stored in a external file (_e.g. `.env` [file](https://en.wikipedia.org/wiki/Environment_variable)) and not stored in repository.
 
-
+If necessary, made available code instruction of how to run the project.
 ```bash
 $ your-command --options
 ```
+
 ## Contributing
 Let others know how they can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards you want contributors to follow.
 
 ## License
-A short description of the license. ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
+A short description of the license. If you want to share your work with others, please consider choosing an open source license ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
+The text of a license is usually stored in the `LICENSE` (or `LICENSE.txt`, `LICENSE.md`) file in the root of the project.
 
 **Typically:** This project is licensed under the `[License Name]` - see the [LICENSE](LICENSE) file for details.
 
