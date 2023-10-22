@@ -25,7 +25,7 @@ Provide a more detailed introduction to your project. Explain what it does, why 
 
 ### Prerequisites
 
-List any prerequisites or system requirements that users need to install your project. Include links and instructions if necessary.
+If necessary, list any prerequisites or requirements that users need to install your project. Include links and instructions.
 
 - Prerequisite 1
 - Prerequisite 2
@@ -44,6 +44,7 @@ Explain how to use your project. Provide code examples, screenshots, or any othe
 
 ```bash
 $ your-command --options
+```
 Contributing
 Let others know how they can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards you want contributors to follow.
 
@@ -55,7 +56,11 @@ Copy code
 
 Remember to replace `[Project Name]`, `[License Name]`, and the content under each section with the appropriate information for your project. Additionally, you can add more sections or customize it further to suit your project's specific needs.
 
+Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 
+You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
+
+Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
 
 
 
