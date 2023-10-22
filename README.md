@@ -17,7 +17,7 @@ If your README is very long, consider incorporating a table of contents to facil
     - [Contributing](#contributing)
     - [License](#license)
 
-## About (Optional)
+## About/Motivation (Optional)
 
 Provide a more detailed introduction to your project. Explain what it does, why it's important, and any relevant background information.
 
@@ -40,16 +40,22 @@ Provide step-by-step instructions on how to install and set up your project.
 
 ## Usage
 
-Explain how to use your project. Provide code examples, screenshots, or any other relevant information that can help users understand how to make the most of your project.
+Explain how to use your project. Provide instruction, code examples, screenshots, or any other relevant information that can help users/contributors use the project.
+
+Also if your project will require authentication like API keys, passwords, or usernames, this is a good section to explain that.
+
+
 
 ```bash
 $ your-command --options
 ```
-Contributing
+## Contributing
 Let others know how they can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards you want contributors to follow.
 
-License
-This project is licensed under the [License Name] - see the LICENSE file for details.
+## License
+A short description of the license. ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
+
+**Typically:** This project is licensed under the `[License Name]` - see the [LICENSE](blob/main/LICENSE) file for details.
 
 css
 Copy code
