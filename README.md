@@ -2,15 +2,18 @@
 
 A brief description of your project goes here.
 
-A README file should contain only the information necessary for developers to start using and contributing to your project. Longer documentation is better suited to [wikis](https://github.com/sergiomrebelo/ldc-repository-example/wiki).
+A `README` file should contain only the information necessary for developers to start using and contributing to your project. Longer documentation is better suited to [wikis](https://github.com/sergiomrebelo/ldc-repository-example/wiki).
 
 ## Table of Contents
 
-If your README is very long, consider incorporating a table of contents to facilitate navigation for users.  (Optional)
+🤔 **Optional**
+
+If your `README` is very long, consider incorporating a table of contents to facilitate navigation for users.
 
 - [Project Name](#project-name)
     - [Table of Contents](#table-of-contents)
     - [About](#about)
+    - [RoadMap](#Roadmap)
     - [Getting Started](#getting-started)
         - [Prerequisites](#prerequisites)
         - [Installation](#installation)
@@ -20,7 +23,19 @@ If your README is very long, consider incorporating a table of contents to facil
 
 ## About
 
-Provide a more detailed overview to your project. Explain what it does, the motivation, and any relevant background information. (Optional)
+🤔 **Optional**
+
+Provide a more detailed overview to your project. Explain what it does, the motivation, and any relevant background information. 
+
+If necessary, you can briefly mention the current [milestone](https://github.com/sergiomrebelo/ldc-repository-example/milestones) and its significance.
+
+## RoadMap
+
+🤔 **Optional** (High recommended if project is in development)
+
+- [Milestone 1](https://github.com/sergiomrebelo/ldc-repository-example/milestone/1): [Description of the milestone]
+- [Milestone 2](https://github.com/sergiomrebelo/ldc-repository-example/milestone/2): [Description of the milestone]
+
 
 ## Getting Started
 
@@ -45,7 +60,7 @@ Explain how to use your project. Provide instruction, code examples, screenshots
 
 Also if your project will require authentication like API keys, passwords, or usernames, this is the place to explain that.
 
-> ⚠️ 
+> ⚠️ 🔑
 > 
 > Do not include personal acess tokens or passwords in the project. This information must be stored in a external file (_e.g. `.env` [file](https://en.wikipedia.org/wiki/Environment_variable)) and not stored in repository.
 
