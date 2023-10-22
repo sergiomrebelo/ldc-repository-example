@@ -28,6 +28,7 @@ root/
 - `dep/` or `libs/`: External libraries or dependencies.
 - `data/`: Data files and databases.
 - `res/`: Results of the project, include static resources, such as images, and papers.
+- `.build/` or `build/`: 
 - `.gitignore`: Specifies files or directories to be ignored by version control.
 - `LICENSE`: Contains project licensing information.
 - `README.md`: The project's README file.

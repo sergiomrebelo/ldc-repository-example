@@ -128,3 +128,4 @@ dist
 
 # config files
 .idea/
+.DS_Store
