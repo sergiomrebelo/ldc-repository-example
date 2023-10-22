@@ -13,7 +13,7 @@ If your `README` is very long, consider incorporating a table of contents to fac
 - [Project Name](#project-name)
     - [Table of Contents](#table-of-contents)
     - [About](#about)
-      - [RoadMap](#roadmap)
+        - [RoadMap](#roadmap)
     - [Getting Started](#getting-started)
         - [Prerequisites](#prerequisites)
         - [Installation](#installation)
@@ -28,7 +28,7 @@ If your `README` is very long, consider incorporating a table of contents to fac
 
 🤔 **Optional**
 
-Provide a more detailed overview to your project. Explain what it does, the motivation, and any relevant background information. 
+More detailed overview of your project.. Explain what it does, the motivation, and any relevant background information.
 
 If necessary, you can briefly mention the current [milestone](https://github.com/sergiomrebelo/ldc-repository-example/milestones) and its significance.
 
@@ -36,7 +36,7 @@ If necessary, you can briefly mention the current [milestone](https://github.com
 
 ### RoadMap
 
-🤔 **Optional** (High recommended if project is in development)
+🤔 **Optional** (Highly recommended if the project is in development)
 
 - [Repository Definition](https://github.com/sergiomrebelo/ldc-repository-example/milestone/1): To establish the repository structure and set the foundation for organised collaboration.
 - [Define the Project](https://github.com/sergiomrebelo/ldc-repository-example/milestone/2): To define and outline the project's objectives, scope, and overall plan.
@@ -69,8 +69,9 @@ Explain how to use your project. Provide instruction, code examples, screenshots
 Also if your project will require authentication like API keys, passwords, or usernames, this is the place to explain that.
 
 > ⚠️ 🔑
-> 
-> Do not include personal acess tokens or passwords in the project. This information must be stored in a external file (_e.g. `.env` [file](https://en.wikipedia.org/wiki/Environment_variable)) and not stored in repository.
+>
+> Do not include personal access tokens or passwords in the project. This information must be stored in an external file (_e.g. .env file) and not stored in the repository.
+If necessary, make available code instructions on how to run the project.
 
 If necessary, made available code instruction of how to run the project.
 ```bash
@@ -78,7 +79,7 @@ $ your-command --options
 ```
 
 ## Code of Conduct
-A code of conduct is a document that establishes expectations for behavior for your project’s constributiors. The text is usually stored in the `CODE_OF_CONDUCT` file in the root of the project. For more information read this [page](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project).
+A code of conduct is a document that establishes expectations for the behaviour of your project’s contributors. The text is usually stored in the CODE_OF_CONDUCT file at the root of the project. For more information read this page.
 
 > We expect everyone participating in our project to follow a Code of Conduct. Please read it [here](CODE_OF_CONDUCT.md).
 
@@ -87,18 +88,19 @@ A code of conduct is a document that establishes expectations for behavior for y
 Let others know how they can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards you want contributors to follow.
 
 ## License
-A short description of the license. If you want to share your work with others, please consider choosing an open source license ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
-The text of a license is usually stored in the `LICENSE` file in the root of the project.
+A short description of the license. If you want to share your work with others, please consider choosing an open-source license ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
+The text of a license is usually stored in the `LICENSE` file at the root of the project.
 
 > This project is licensed under the `[License Name]` - see the [LICENSE](LICENSE) file for details.
 
 ## Credits
-Let other know whose help and support the project. It can include libraries, previous works, support of other individuals, etc.
+Let others know who help and support the project. It can include libraries, previous works, support of other individuals, _etc._
 
-Do not forget to mention that this project is developed in a context of a university course in the MSc of Design and Multimedia of University of Coimbra.
+Do not forget to mention that this project is developed in the context of a university course in the MSc of Design and Multimedia of the University of Coimbra.
 
 ### Contributors
 
 - [Your Name](https://github.com/yourname) - design and development
 - [Sérgio M. Rebelo](https://github.com/sergiomrebelo) - supervision
+- Pedro Silva - revision
 
