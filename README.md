@@ -13,7 +13,7 @@ If your `README` is very long, consider incorporating a table of contents to fac
 - [Project Name](#project-name)
     - [Table of Contents](#table-of-contents)
     - [About](#about)
-      - [RoadMap](#roadmap)
+        - [RoadMap](#roadmap)
     - [Getting Started](#getting-started)
         - [Prerequisites](#prerequisites)
         - [Installation](#installation)
@@ -68,7 +68,6 @@ Explain how to use your project. Provide instruction, code examples, screenshots
 Also if your project will require authentication like API keys, passwords, or usernames, this is the place to explain that.
 
 > ⚠️ 🔑
-> 
 > Do not include personal access tokens or passwords in the project. This information must be stored in an external file (_e.g. .env file) and not stored in the repository.
 If necessary, make available code instructions on how to run the project.
 
