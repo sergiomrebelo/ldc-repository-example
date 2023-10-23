@@ -22,7 +22,6 @@ If your `README` is very long, consider incorporating a table of contents to fac
     - [Code of Conduct](#code-of-conduct)
     - [License](#license)
     - [Credits](#credits)
-      - 
 
 ## About
 
