@@ -28,7 +28,7 @@ If your `README` is very long, consider incorporating a table of contents to fac
 
 🤔 **Optional**
 
-More detailed overview of your project.. Explain what it does, the motivation, and any relevant background information. 
+More detailed overview of your project. Explain what it does, the motivation, and any relevant background information. 
 
 If necessary, you can briefly mention the current [milestone](https://github.com/sergiomrebelo/ldc-repository-example/milestones) and its significance.
 
