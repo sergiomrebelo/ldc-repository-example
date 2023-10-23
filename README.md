@@ -22,13 +22,12 @@ If your `README` is very long, consider incorporating a table of contents to fac
     - [Code of Conduct](#code-of-conduct)
     - [License](#license)
     - [Credits](#credits)
-      - 
 
 ## About
 
 🤔 **Optional**
 
-More detailed overview of your project. Explain what it does, the motivation, and any relevant background information.
+More detailed overview of your project. Explain what it does, the motivation, and any relevant background information. 
 
 If necessary, you can briefly mention the current [milestone](https://github.com/sergiomrebelo/ldc-repository-example/milestones) and its significance.
 
@@ -69,7 +68,6 @@ Explain how to use your project. Provide instruction, code examples, screenshots
 Also if your project will require authentication like API keys, passwords, or usernames, this is the place to explain that.
 
 > ⚠️ 🔑
->
 > Do not include personal access tokens or passwords in the project. This information must be stored in an external file (_e.g. .env file) and not stored in the repository.
 If necessary, make available code instructions on how to run the project.
 
