@@ -19,6 +19,7 @@ If your `README` is very long, consider incorporating a table of contents to fac
         - [Installation](#installation)
     - [Usage](#usage)
     - [Contributing](#contributing)
+    - [Additional Information](#additional-information)
     - [Code of Conduct](#code-of-conduct)
     - [License](#license)
     - [Credits](#credits)
@@ -95,7 +96,6 @@ Let others know how they can contribute to your project. Include guidelines for 
 For further details on this example repository and to enhance your understanding of its layout and GitHub features, please check out the following documents:
 - [Repository Organisation Guide](repo-structure.md): A comprehensive overview of the directory and file organisation within this example repository.
 - [GitHub Repository Features Overview](features.md): A overview of the key GitHub features utilised in this repository to enhance collaboration, streamline documentation, and improve project management. 
-
 
 ## License
 A short description of the license. If you want to share your work with others, please consider choosing an open-source license ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
