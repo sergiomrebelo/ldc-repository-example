@@ -12,7 +12,7 @@ This repository leverages several GitHub features to streamline collaboration, d
 
 ### Wikis
 
-**Wikis** in GitHub repositories provide a centralized space for documentation and detailed information about the project. They can be organized into multiple pages, making them ideal for:
+**Wikis** in GitHub repositories provide a centralised space for documentation and detailed information about the project. They can be organised into multiple pages, making them ideal for:
 
 - **User Guides**: Comprehensive usage guides for the project.
 - **Technical Documentation**: Detailed breakdowns of the codebase, API references, or architectural decisions.
@@ -23,11 +23,11 @@ This repository leverages several GitHub features to streamline collaboration, d
 
 ### Projects and Milestones
 
-**Projects** and **Milestones** help manage work within a repository by tracking progress and organizing tasks.
+**Projects** and **Milestones** help manage work within a repository by tracking progress and organising tasks.
 
-- **Projects**: GitHub Projects act as kanban-style boards where issues and pull requests can be organized into columns. This makes it easy to visualize the project’s status and track tasks in stages (e.g., "To Do," "In Progress," "Done").
+- **Projects**: GitHub Projects act as kanban-style boards where issues and pull requests can be organised into columns. This makes it easy to visualise the project’s status and track tasks in stages (e.g. "To Do," "In Progress," "Done").
     - Projects can be used to track specific **sprints**, **features**, or even long-term goals.
-    - You can prioritize tasks, assign team members, and add notes to provide more context to each task.
+    - You can prioritise tasks, assign team members, and add notes to provide more context to each task.
 
 - **Milestones**: Milestones allow you to group issues and pull requests by a common goal or release. They’re typically used to:
     - Track progress towards major releases or deadlines.
