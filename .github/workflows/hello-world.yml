@@ -3,7 +3,12 @@ name: Hello World Workflow
 on:
   push:
     branches:
-      - main
+      # - main # Typically actions were primarily related to deployment, so they were restricted to the main branch.
+      - '*' # Trigger on any branch to allow for broader testing and usage of the action.
+
+  pull_request:
+    branches:
+      - '*'  # Trigger on any branch
 
 jobs:
   hello:
