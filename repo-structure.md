@@ -1,4 +1,4 @@
-# Repository Organization Guide
+# Repository Organisation Guide
 
 This page provides recommendations and best practices for organising a repository.
 
@@ -8,6 +8,8 @@ A well-structured repository is essential for collaboration and code sharing. Co
 ```
 root/
 │
+├── .build/
+├── .github/
 ├── src/
 ├── test/
 ├── docs/
@@ -22,6 +24,8 @@ root/
 └── ...
 ```
 
+- `.build/`: Typically store files and artefacts generated during the build process of a project.
+- `.github/`: Contains configuration files and resources related to GitHub.
 - `src/`: Contains source code.
 - `test/`: Store integration, unit, and other tests.
 - `docs/`: Documentation files, including user guides and developer guides. Also see [Wikis](https://github.com/sergiomrebelo/ldc-repository-example/wiki).

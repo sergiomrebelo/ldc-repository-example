@@ -19,6 +19,7 @@ If your `README` is very long, consider incorporating a table of contents to fac
         - [Installation](#installation)
     - [Usage](#usage)
     - [Contributing](#contributing)
+    - [Additional Information](#additional-information)
     - [Code of Conduct](#code-of-conduct)
     - [License](#license)
     - [Credits](#credits)
@@ -61,11 +62,18 @@ Provide step-by-step instructions on how to install and set up your project.
 2. Step 2
 3. Step 3
 
+
 ## Usage
 
-Explain how to use your project. Provide instruction, code examples, screenshots, or any other relevant information that can help users/contributors use the project.
+Explain how to use your project. 
+Provide instruction, code examples, screenshots, or any other relevant information that can help users/contributors use the project.
 
 Also if your project will require authentication like API keys, passwords, or usernames, this is the place to explain that.
+
+### Environment Variables
+Many projects utilise a `.env` file (or similar) to manage environment variables. 
+The `.env` file contains sensitive information and configuration settings that are specific to your local environment. 
+The `.env` file should not be included in the repository. You can begin by copying and modifying the [.env.example](.env.example) file.
 
 > ⚠️ 🔑
 > Do not include personal access tokens or passwords in the project. This information must be stored in an external file (_e.g. .env file) and not stored in the repository.
@@ -81,9 +89,13 @@ A code of conduct is a document that establishes expectations for the behaviour 
 
 > We expect everyone participating in our project to follow a Code of Conduct. Please read it [here](CODE_OF_CONDUCT.md).
 
-
 ## Contributing
 Let others know how they can contribute to your project. Include guidelines for reporting issues, making pull requests, and any coding standards you want contributors to follow.
+
+## Additional Information
+For further details on this example repository and to enhance your understanding of its layout and GitHub features, please check out the following documents:
+- [Repository Organisation Guide](repo-structure.md): A comprehensive overview of the directory and file organisation within this example repository.
+- [GitHub Repository Features Overview](features.md): A overview of the key GitHub features utilised in this repository to enhance collaboration, streamline documentation, and improve project management. 
 
 ## License
 A short description of the license. If you want to share your work with others, please consider choosing an open-source license ([MIT](https://opensource.org/license/mit/), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [GNU](https://www.gnu.org/licenses/gpl-3.0.html), etc.)
