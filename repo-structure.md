@@ -1,4 +1,4 @@
-# Repository Organization Guide
+# Repository Organisation Guide
 
 This page provides recommendations and best practices for organising a repository.
 
